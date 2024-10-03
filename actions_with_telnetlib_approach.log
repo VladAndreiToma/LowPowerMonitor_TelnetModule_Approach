@@ -1,0 +1,176 @@
+2024-10-03 14:11:06,149 - INFO - Connecting to 172.18.4.142:8100
+2024-10-03 14:11:06,152 - INFO - Connection established
+2024-10-03 14:11:08,154 - INFO - Waiting for initial prompt
+2024-10-03 14:11:08,155 - INFO - Sending 'caen' command
+2024-10-03 14:11:10,156 - INFO - Sending 'c' command to get table view
+2024-10-03 14:11:12,158 - INFO - Entering continuous table data reading mode
+2024-10-03 14:11:12,159 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:11:14,171 - INFO - Table data successfully read
+2024-10-03 14:11:24,180 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:11:26,190 - INFO - Table data successfully read
+2024-10-03 14:11:36,196 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:11:38,205 - INFO - Table data successfully read
+2024-10-03 14:11:48,216 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:11:50,227 - INFO - Table data successfully read
+2024-10-03 14:12:00,237 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:12:02,246 - INFO - Table data successfully read
+2024-10-03 14:12:12,256 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:12:14,264 - INFO - Table data successfully read
+2024-10-03 14:12:24,269 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:12:26,279 - INFO - Table data successfully read
+2024-10-03 14:12:36,289 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:12:38,298 - INFO - Table data successfully read
+2024-10-03 14:12:48,308 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:12:50,318 - INFO - Table data successfully read
+2024-10-03 14:13:00,328 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:13:02,337 - INFO - Table data successfully read
+2024-10-03 14:13:12,344 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:13:14,353 - INFO - Table data successfully read
+2024-10-03 14:13:24,364 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:13:26,375 - INFO - Table data successfully read
+2024-10-03 14:13:36,384 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:13:38,393 - INFO - Table data successfully read
+2024-10-03 14:13:48,395 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:13:50,404 - INFO - Table data successfully read
+2024-10-03 14:14:00,412 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:14:02,421 - INFO - Table data successfully read
+2024-10-03 14:14:12,428 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:14:14,437 - INFO - Table data successfully read
+2024-10-03 14:14:24,448 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:14:26,458 - INFO - Table data successfully read
+2024-10-03 14:14:36,469 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:14:38,480 - INFO - Table data successfully read
+2024-10-03 14:14:48,491 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:14:50,500 - INFO - Table data successfully read
+2024-10-03 14:15:00,508 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:15:02,517 - INFO - Table data successfully read
+2024-10-03 14:15:12,524 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:15:14,533 - INFO - Table data successfully read
+2024-10-03 14:15:24,540 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:15:26,548 - INFO - Table data successfully read
+2024-10-03 14:15:36,556 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:15:38,566 - INFO - Table data successfully read
+2024-10-03 14:15:48,576 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:15:50,580 - INFO - Table data successfully read
+2024-10-03 14:16:00,591 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:16:02,600 - INFO - Table data successfully read
+2024-10-03 14:16:12,610 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:16:14,618 - INFO - Table data successfully read
+2024-10-03 14:16:24,628 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:16:26,632 - INFO - Table data successfully read
+2024-10-03 14:16:36,640 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:16:38,648 - INFO - Table data successfully read
+2024-10-03 14:16:48,656 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:16:50,665 - INFO - Table data successfully read
+2024-10-03 14:17:00,672 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:17:02,680 - INFO - Table data successfully read
+2024-10-03 14:17:12,688 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:17:14,698 - INFO - Table data successfully read
+2024-10-03 14:17:24,708 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:17:26,718 - INFO - Table data successfully read
+2024-10-03 14:17:36,728 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:17:38,736 - INFO - Table data successfully read
+2024-10-03 14:17:48,745 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:17:50,757 - INFO - Table data successfully read
+2024-10-03 14:18:00,768 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:18:02,778 - INFO - Table data successfully read
+2024-10-03 14:18:12,788 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:18:14,795 - INFO - Table data successfully read
+2024-10-03 14:18:24,806 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:18:26,809 - INFO - Table data successfully read
+2024-10-03 14:18:36,819 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:18:38,828 - INFO - Table data successfully read
+2024-10-03 14:18:48,836 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:18:50,847 - INFO - Table data successfully read
+2024-10-03 14:19:00,856 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:19:02,860 - INFO - Table data successfully read
+2024-10-03 14:19:12,870 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:19:14,879 - INFO - Table data successfully read
+2024-10-03 14:19:24,889 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:19:26,893 - INFO - Table data successfully read
+2024-10-03 14:19:36,900 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:19:38,901 - INFO - Table data successfully read
+2024-10-03 14:19:48,912 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:19:50,929 - INFO - Table data successfully read
+2024-10-03 14:20:00,940 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:20:02,944 - INFO - Table data successfully read
+2024-10-03 14:20:12,952 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:20:14,961 - INFO - Table data successfully read
+2024-10-03 14:20:24,972 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:20:26,975 - INFO - Table data successfully read
+2024-10-03 14:20:36,984 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:20:38,988 - INFO - Table data successfully read
+2024-10-03 14:20:48,996 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:20:51,000 - INFO - Table data successfully read
+2024-10-03 14:21:01,008 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:21:03,014 - INFO - Table data successfully read
+2024-10-03 14:21:13,024 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:21:15,031 - INFO - Table data successfully read
+2024-10-03 14:21:25,040 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:21:27,045 - INFO - Table data successfully read
+2024-10-03 14:21:37,056 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:21:39,059 - INFO - Table data successfully read
+2024-10-03 14:21:49,068 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:21:51,077 - INFO - Table data successfully read
+2024-10-03 14:22:01,087 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:22:03,097 - INFO - Table data successfully read
+2024-10-03 14:22:13,108 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:22:15,117 - INFO - Table data successfully read
+2024-10-03 14:22:25,128 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:22:27,136 - INFO - Table data successfully read
+2024-10-03 14:22:37,144 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:22:39,153 - INFO - Table data successfully read
+2024-10-03 14:22:49,164 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:22:51,173 - INFO - Table data successfully read
+2024-10-03 14:23:01,180 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:23:03,189 - INFO - Table data successfully read
+2024-10-03 14:23:13,196 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:23:15,206 - INFO - Table data successfully read
+2024-10-03 14:23:25,216 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:23:27,219 - INFO - Table data successfully read
+2024-10-03 14:23:37,228 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:23:39,232 - INFO - Table data successfully read
+2024-10-03 14:23:49,240 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:23:51,247 - INFO - Table data successfully read
+2024-10-03 14:24:01,256 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:24:03,262 - INFO - Table data successfully read
+2024-10-03 14:24:13,272 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:24:15,283 - INFO - Table data successfully read
+2024-10-03 14:24:25,292 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:24:27,301 - INFO - Table data successfully read
+2024-10-03 14:24:37,312 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:24:39,320 - INFO - Table data successfully read
+2024-10-03 14:24:49,328 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:24:51,336 - INFO - Table data successfully read
+2024-10-03 14:25:01,344 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:25:03,352 - INFO - Table data successfully read
+2024-10-03 14:25:13,360 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:25:15,369 - INFO - Table data successfully read
+2024-10-03 14:25:25,376 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:25:27,386 - INFO - Table data successfully read
+2024-10-03 14:25:37,396 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:25:39,406 - INFO - Table data successfully read
+2024-10-03 14:25:49,416 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:25:51,425 - INFO - Table data successfully read
+2024-10-03 14:26:01,432 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:26:03,440 - INFO - Table data successfully read
+2024-10-03 14:26:13,448 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:26:15,455 - INFO - Table data successfully read
+2024-10-03 14:26:25,464 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:26:27,472 - INFO - Table data successfully read
+2024-10-03 14:26:37,480 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:26:39,488 - INFO - Table data successfully read
+2024-10-03 14:26:49,496 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:26:51,504 - INFO - Table data successfully read
+2024-10-03 14:27:01,512 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:27:03,521 - INFO - Table data successfully read
+2024-10-03 14:27:13,528 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:27:15,537 - INFO - Table data successfully read
+2024-10-03 14:27:25,544 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:27:27,553 - INFO - Table data successfully read
+2024-10-03 14:27:37,561 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:27:39,569 - INFO - Table data successfully read
+2024-10-03 14:27:49,580 - INFO - Requesting table data refresh with 'c' command
+2024-10-03 14:27:51,589 - INFO - Table data successfully read
+2024-10-03 14:27:56,275 - INFO - Keyboard interrupt received. Closing connection...
+2024-10-03 14:27:56,275 - INFO - Connection closed
